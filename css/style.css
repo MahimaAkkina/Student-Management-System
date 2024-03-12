@@ -1,0 +1,83 @@
+*{
+    margin:0px !important;
+    padding:0px !important;
+}
+.navbarr{
+    background-color: rgb(232, 17, 200)!important;
+    height: 80px;;
+}
+.navbarr a{
+    color:white;
+    font-size: 50px;
+   padding-left: 80px!important;
+}
+.navbarr ul li a{
+    color:white;
+    font-size: 20px;
+}
+.hero_image{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top:420px;
+    left:120px;
+    color:white;
+}
+.hero_image .btn{
+    text-decoration: none;
+    padding: 10px !important;
+    color:white;
+    background-color: rgb(6, 63, 253);
+}
+.hero_image .btn:hover{
+    background-color: deeppink;
+}
+.loginform{
+    margin-left: 500px !important;
+    margin-top: 120px !important;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+}
+.loginform input::placeholder{
+    text-align: center;
+    color:lightblue
+}
+.loginform p{
+    margin-left: 20px !important;
+}
+.log{
+    margin-left: 20px !important;
+    background-color: rgb(20, 238, 24);
+    padding: 10px 190px 10px 190px !important;
+    color: white;
+}
+.log:hover{
+    margin-left: 20px !important;
+    background-color: rgb(0, 135, 61);
+    padding: 10px 190px 10px 190px !important;
+    color: white;
+}
+.hi a{
+    text-decoration: none;
+    color: black;
+}
+.hi a:hover{
+    color:black;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 1px;
+    
+}
+.back{
+    margin-left: 20px !important;
+    background-color: rgb(16, 31, 237);
+    padding: 10px 163px 10px 163px !important;
+    color: white;
+}
+.back:hover{
+    margin-left: 20px !important;
+    background-color: rgb(7, 16, 140);
+    padding: 10px 163px 10px 163px !important;
+    color: white;
+}
